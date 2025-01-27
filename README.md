@@ -18,7 +18,7 @@ Les utilisateurs peuvent se connecter pour profiter de fonctionnalités supplém
 - **Mode Admin :**
   - Modification et ajout de champions via une interface dédiée.
 - **Système de connexion :**
-  - Inscription et connexion sécurisées.
+  - Inscription et connexion.
   - Possibilité d'ajouter des amis.
 
 ---
